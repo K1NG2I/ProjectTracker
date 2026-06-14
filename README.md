@@ -20,17 +20,26 @@ A personal project management app for iPhone that combines calendar scheduling w
 - Code-generated project via XcodeGen
 
 ## Screenshots
-
-![Screenshot 1](Screenshots/IMG_0290.png)
-![Screenshot 2](Screenshots/IMG_0291.png)
-![Screenshot 3](Screenshots/IMG_0292.png)
-![Screenshot 4](Screenshots/IMG_0293.png)
-![Screenshot 5](Screenshots/IMG_0294.png)
-![Screenshot 6](Screenshots/IMG_0295.png)
-![Screenshot 7](Screenshots/IMG_0296.png)
-![Screenshot 8](Screenshots/IMG_0297.png)
-![Screenshot 9](Screenshots/IMG_0298.png)
-![Screenshot 10](Screenshots/IMG_0299.png)
+<table>
+  <tr>
+    <td align="center"><img src="Screenshots/screenshot1.png" alt="screenshot1" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot2.png" alt="screenshot2" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot3.png" alt="screenshot3" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot4.png" alt="screenshot4" width="220" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Screenshots/screenshot5.png" alt="screenshot5" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot6.png" alt="screenshot6" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot7.png" alt="screenshot7" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot8.png" alt="screenshot8" width="220" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="Screenshots/screenshot9.png" alt="screenshot9" width="220" /></td>
+    <td align="center"><img src="Screenshots/screenshot10.png" alt="screenshot10" width="220" /></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ## Setup
 
