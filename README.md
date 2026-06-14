@@ -17,7 +17,6 @@ A personal project management app for iPhone that combines calendar scheduling w
 
 - SwiftUI + SwiftData (iOS 18+)
 - No external dependencies
-- Code-generated project via XcodeGen
 
 ## Screenshots
 <table>
