@@ -17,7 +17,6 @@ A personal project management app for iPhone that combines calendar scheduling w
 
 - SwiftUI + SwiftData (iOS 18+)
 - No external dependencies
-- Code-generated project via [XcodeGen](https://github.com/yonaskolb/XcodeGen)
 
 ## Screenshots
 
@@ -25,7 +24,7 @@ Add your screenshots to the `Screenshots/` folder and reference them below:
 
 | Month View | Day Timeline | Entry Form |
 |---|---|---|
-| ![Month View](Screenshots/month-view.png) | ![Day View](Screenshots/day-view.png) | ![Entry Form](Screenshots/entry-form.png) |
+| ![Month View](Screenshots/.png) | ![Day View](Screenshots/day-view.png) | ![Entry Form](Screenshots/entry-form.png) |
 
 | List View | Stages |
 |---|---|
