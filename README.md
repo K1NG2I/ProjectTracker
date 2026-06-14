@@ -1,22 +1,8 @@
-# Project Tracker
+# Project Tracker | Personal Project | iOS App SwiftUI SwiftData
 
-A personal project management app for iPhone that combines calendar scheduling with lightweight bug tracking. Think Google Calendar but with type-aware entries (API, Bug, Meeting, Other) that progress through a predefined stage lifecycle.
+Project Tracker is a personal project management app for iPhone that combines calendar scheduling with lightweight bug tracking. Designed for solo developers juggling API work, bug fixes, and meetings, it replaces a generic calendar with type-aware entries (API, Bug, Meeting, Other) that progress through a defined stage lifecycle — Documentation → Development → Testing → Rest → Done. Each entry supports multiple time blocks per day, and concurrent entries are automatically split side-by-side on the timeline.
 
-## Features
-
-- **Month & Day Views** — Month calendar grid with day indicators, vertical timeline with time blocks
-- **Entry Types** — API, Bug, Meeting, Other with color-coded icons
-- **Stage Lifecycle** — Documentation → Development → Testing → Rest → Done
-- **Bug Tracking** — Severity, status, and steps-to-reproduce for bug entries
-- **Multiple Time Blocks** — An entry can have several time segments in a day
-- **Overlap Resolution** — Concurrent entries split side-by-side on the timeline
-- **Quick Stage Advancement** — Swipe in list, context menu in timeline
-- **Stage Colors** — Each stage has a distinct color for visual tracking
-
-## Tech Stack
-
-- SwiftUI + SwiftData (iOS 18+)
-- No external dependencies
+In this project, I was responsible for building the full application from scratch using SwiftUI and SwiftData. I designed and implemented the month and day calendar views, a custom overlap resolution algorithm for concurrent time blocks, entry management with conditional bug tracking fields (severity, status, steps-to-reproduce), the five-stage lifecycle with color-coded visual feedback, and all CRUD operations with persistent local storage.
 
 ## Screenshots
 <table>
