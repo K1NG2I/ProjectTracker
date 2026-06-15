@@ -1,6 +1,6 @@
 # Project Tracker
 
-A personal project management app for iPhone that combines calendar scheduling with lightweight bug tracking. Think Google Calendar but with type-aware entries (API, Bug, Meeting, Other) that progress through a predefined stage lifecycle.
+A calendar-style project tracker I built for managing my personal workflow, handling API development, bug fixes, meetings, and general tasks. Entries move through a Documentation → Development → Testing → Rest → Done pipeline with each stage color-coded for quick visual tracking across month and day views. Supports multiple time blocks per entry and automatically splits overlapping entries side-by-side on the timeline. Includes bug tracking fields with severity, status, and steps to reproduce. Stage can be advanced via swipe gestures in the list view or context menus on the timeline. Built for personal use with SwiftUI and SwiftData.
 
 ## Features
 
